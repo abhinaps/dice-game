@@ -1,0 +1,21 @@
+body{
+  background-color: #45526c;
+}
+h1{
+  color: #5aa897;
+  font-family: 'Sigmar One', cursive;
+  font-size: 5rem;
+  text-align: center;
+  text-shadow: 10px 10px 5px #2f5d62;
+}
+h2{
+color: #5aa897;
+font-family: 'Indie Flower', cursive;
+
+}
+div{
+  /* position: relative; */
+  display: inline-block;
+  text-align: center;
+  margin:0 15%;
+}
